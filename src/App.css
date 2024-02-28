@@ -1,0 +1,21 @@
+#root {
+  margin: 0;
+  padding: 0;
+  background: rgb(199, 195, 88);
+  background: linear-gradient(
+    0deg,
+    rgba(199, 195, 88, 1) 0%,
+    rgba(228, 227, 192, 1) 50%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
+
+body {
+  background: rgb(199, 195, 88);
+  background: linear-gradient(
+    0deg,
+    rgba(199, 195, 88, 1) 0%,
+    rgba(228, 227, 192, 1) 50%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
